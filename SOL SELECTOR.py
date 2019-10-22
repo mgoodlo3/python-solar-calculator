@@ -1,4 +1,4 @@
-x = int(input("Type total Load or wattage :"))
+x = int(input("Type total Load "))
 y = int(input("Type Total required battery backup :"))
  
 a = 0.25 * x
